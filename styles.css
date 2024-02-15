@@ -1,0 +1,57 @@
+body {
+font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    margin: 40px;
+    padding: 40px;
+    box-sizing: border-box;
+    justify-items: center;
+    text-align: center;
+    background-color: beige;
+}
+
+header {
+    background-color: #333;
+    color: bisque;
+    text-align: center;
+    padding: 1em 0;
+    
+    height:300px;
+    
+
+}
+
+section {
+    margin: 15px;
+}
+
+h2 {
+    color: #333;
+}
+
+.project {
+    border: 1px solid #6e6aa0;
+    padding: 10px;
+    margin-bottom: 10px;
+    background-color: rgb(199, 207, 167);
+    border-radius: 5%;
+}
+
+a {
+    color: #007bff;
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+.juli {
+    width: 500px;
+    height: 800px; 
+    justify-content: space-around;
+    border-radius: 2%;
+}.zaid {
+    width: 500px;
+    height: 800px; 
+    justify-content: space-around;
+    border-radius: 2%;
+
+}
